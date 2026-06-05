@@ -1,6 +1,6 @@
 ```javascript
 const nossair = {
-  role: "Expert Frontend Engineer @ NTT Data",
+  role: "Expert Software Engineer @ NTT Data",
   location: "Barcelona, Spain 🇪🇸",
   
   achievements: {
