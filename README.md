@@ -13,7 +13,7 @@ const nossair = {
 **Find me elsewhere:**
 - 💼 [LinkedIn](https://linkedin.com/in/nghazouani) for professional networking
 - 📧 [Email](mailto:nossair.riffi@gmail.com) for direct collaboration
-- 📄 [Download my CV](https://github.com/n0ss4/cv/releases/latest/download/main.pdf) for the full story
+- 📄 [Download my CV](https://github.com/n0ss4/cv/releases/latest/download/CV_Ghazouani_Nossair_EN.pdf) for the full story
 
 ---
 
