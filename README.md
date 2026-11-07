@@ -1,6 +1,6 @@
 ```javascript
 const nossair = {
-  role: "Expert Software Engineer @ NTT Data",
+  role: "Senior Technical Lead @ NTT Data",
   location: "Barcelona, Spain 🇪🇸",
   
   achievements: {
